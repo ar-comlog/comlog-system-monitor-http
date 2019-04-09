@@ -1,0 +1,11 @@
+{
+  "name": "comlog-system-monitor-http",
+  "version": "1.0.0",
+  "description": "HTTP service watcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "COMLOG GmbH <bernhard.duenow@comlog.org> (http://www.comlog.org/)",
+  "license": "COMLOG GmbH"
+}
